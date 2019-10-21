@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout savoir sur le toilettage canin - Toilettage chien, le métier ? Quelles perspectives ? Vers un toilettage d'"excellence" ?
+title: Toilettage chien, le métier de toiletteur canin, réalités, évolutions, perspectives
+description: "Toilettage chien, le métier : qu'est-ce que le toilettage ? Le toilettage comprend en réalité plusieurs activités, plus ou moins complémentaires..."
 extends: _layouts.documentation
 section: content
 ---

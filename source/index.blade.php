@@ -17,7 +17,7 @@
         
                 <div class="flex my-10 justify-center">
                 <!-- <div class="flex my-10"> -->
-                    <a href="/docs/ecole-de-toilettage" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">École de toilettage</a>
+                    <a href="/docs/toilettage-chien" title="{{ $page->siteName }} toilettage canin - toiletteur de chien" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Toilettage Chien : le Guide</a>
         
                     <a href="https://audreco.com?utm_source=ecole+de+toilettage+com" title="Jigsaw by Tighten" class="bg-gray-400 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">Site principal Audreco</a>
                 </div>
@@ -35,7 +35,7 @@
             <img src="/assets/img/tmp-img/basic_todolist_pen.svg" class="h-12 w-12" alt="to do list with pen icon">
             <!-- <img src="/assets/img/icon-window.svg" class="h-12 w-12" alt="window icon"> -->
 
-            <h3 id="intro-laravel" class="text-2xl text-blue-900 mb-0">Recevez une étude gratuite</h3>
+            <h3 id="étude toilettage canin" class="text-2xl text-blue-900 mb-0">Recevez une étude gratuite sur le toilettage</h3>
 
             <p>Téléchargez nos études gratuites sur : <a href="https://audreco.com">Audreco</a> onglet "GRATUIT". <br>
                 Vous pouvez également consuler nos services, onglet "SERVICES"<br> ainsi que nos formations longues et courtes, onglet "FORMATIONS".
@@ -47,7 +47,7 @@
             <img src="/assets/img/tmp-img/basic_laptop.svg" class="h-12 w-12" alt="laptop icon">
             <!-- <img src="/assets/img/icon-terminal.svg" class="h-12 w-12" alt="terminal icon"> -->
 
-            <h3 id="intro-markdown" class="text-2xl text-blue-900 mb-0">Consultez nos blogs</h3>
+            <h3 id="blogs toilettage canin" class="text-2xl text-blue-900 mb-0">Consultez nos blogs</h3>
 
             <p>
                 <a href="https://audreco.com/mon-chien/?utm_source=ecole+de+toilettage+com">Tout ce que vous avez toujours cru savoir sur votre chien ou votre chat,<br>et qui n'est peut-être pas vrai !</a> <br>
@@ -60,11 +60,92 @@
             <img src="/assets/img/tmp-img/basic_spread_text_bookmark.svg" class="h-12 w-12" alt="spreaad text book icon">
             <!-- <img src="/assets/img/icon-stack.svg" class="h-12 w-12" alt="stack icon"> -->
 
-            <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">Faites un petit tour dans notre librairie</h3>
+            <h3 id="livre animaux" class="text-2xl text-blue-900 mb-0">Faites un petit tour dans notre librairie</h3>
 
-            <p>Des livres pour tous ! <a href="https://librairie.audreco.com?utm_source=ecole+de+toilettage+com">Accéder à la librairie</a>
-            </p>
+            <p><a href="https://librairie.audreco.com?utm_source=ecole+de+toilettage+com">Des livres sur les animaux et le toilettage ! Accéder à la librairie</a></p>
         </div>
+
+
+
+    <div class="text-center">
+        <h3>Sommaire</h3>
+        <ul>
+            <li>
+                <a href="docs/toilettage-chien/toilettage-animaux">
+                    Le toilettage pour quels animaux ?
+                </a><br />
+                Incontestablement, les animaux les plus régulièrement toilettés sont les chiens. Cependant, certains salons toilettent aussi (ou seulement) les chats, à poil court ou long : c'est d'ailleurs un « marché » en pleine expansion. Le poil long, chez le chat, nécessite en effet un entretien régulier. Un travail souvent hors de portée de beaucoup de propriétaires. Ces derniers pouvant manquer soit de temps, soit de compétences, soit les deux...
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/marche-toilettage">
+                    Toilettage chien : le marché et ses attentes
+                </a><br />
+                Le marché du toilettage canin et ses attentes : combien de chiens, de chats ? Le marché du toilettage, le nombre d'animaux dans les salons de toilettage...
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/qualites-du-toiletteur">
+                    Toiletteur chien, le métier : les qualités du toiletteur
+                </a><br />
+                Toilettage chien, le métier : la pratique du toilettage professionnel implique certaines qualités que nous allons essayer d'envisager, amour des animaux, stabilité du caractère, sens artistique, vitalité physique, sens de la rigueur...
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/activite-toilettage">
+                    Toiletteur chien, le métier : les différentes formes de l'activité
+                </a><br />
+                Les manières de pratiquer le toilettage canin ne sont pas uniformes : le travail en salon de toilettage, le salon de toilettage mobile, le toilettage à domicile...
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/entreprises-toilettage">
+                    Toilettage chien, le métier, combien de salons ? Combien de toiletteurs ?
+                </a><br />
+                Le métier du toilettage canin : les entreprises de toilettage canin et l'emploi salarié en tant que toiletteur canin.
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/budget-salon-toilettage">
+                    Toilettage chien, le métier, quel budget ?
+                </a><br />
+                Que vous exerciez comme toiletteur à domicile que vous soyez employé dans un salon de toilettage, il est recommandé de disposer de son équipement de toilettage personnel...
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/toilettage-formes-juridiques">
+                    Toilettage chien, le métier : formes juridiques de l'activité
+                </a><br />
+                Le toiletteur est parfois salarié : employé dans un salon de toilettage ou dans une structure comportant un tel salon. Dans de nombreux autres cas, le toiletteur est un travailleur indépendant : auto-entrepreneur, microentreprise, SAS, SARL, EURL...
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/reglementation-toilettage">
+                    Toilettage chien, le métier et sa réglementation
+                </a><br />
+                Si la plupart des métiers en rapport avec l'animal de compagnie nécessitent d'être titulaire du certificat de capacité, ce n'est pas le cas du toilettage canin.
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/formation-toilettage">
+                    Toilettage chien, le métier et sa formation
+                </a><br />
+                Si aucun diplôme de toilettage n'est obligatoire pour exercer en tant que toiletteur canin ou responsable de salon de toilettage, une solide formation est cependant recommandée.
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/metier-toiletteur-histoire">
+                    Toilettage chien, le métier : le passé, le présent, l'avenir...
+                </a><br />
+                Le passé, le présent et l'avenir du toilettage canin : beaucoup de gens croyaient hier, et croient d'ailleurs toujours aujourd'hui, que certains pelages doivent être obligatoirement raccourcis. L'idée (complètement fausse) est que ces pelages poussent indéfiniment, et finiraient par compromettre la santé de l'animal.
+            </li>
+            <li>
+                <a href="docs/toilettage-chien/toilettage-aller-plus-loin">
+                    Toiletteur canin, le métier : aller plus loin !
+                </a><br />
+                Nous vous présentons sur cette page d'autres ressources relatives au toilettage et à la pratique du métier de toiletteur canin, études gratuites, livres, formations, blogues...
+            </li>
+        </ul>
     </div>
+
+
+
+
+
+
+
+
+
 </section>
 @endsection
