@@ -4,7 +4,7 @@ return [
     'baseUrl' => 'https://www.ecole-de-toilettage.com/',
     'production' => true,
     'siteName' => 'École de toilettage - le guide du métier toilettage canin - toiletteur de chien',
-    'siteDescription' => "Toilettage du chien : quels animaux ? - toilettage canin, le métier, le marché et ses attentes - les qualités du toiletteur - les différentes formes de l'activité - combien de salons de toilettage, de toiletteurs - le budget - les formes juridiques de l'activité - la règlementation - la formation - le métier de toiletteur",
+    'siteDescription' => "Toilettage canin - toiletteur de chien, le métier, le marché et ses attentes, les qualités du toiletteur - l'activité - combien de salons de toilettage, le budget salon de toilettage, les formes juridiques de l'activité, la règlementation, la formation, le métier de toiletteur",
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
