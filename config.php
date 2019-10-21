@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'baseUrl' => '',
-    'production' => false,
+    'baseUrl' => 'https://www.ecole-de-toilettage.com/',
+    'production' => true,
     'siteName' => 'École de toilettage',
-    'siteDescription' => 'Tout sur les écoles de toilettage canin',
+    'siteDescription' => 'Tout savoir sur le toilettage canin',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
