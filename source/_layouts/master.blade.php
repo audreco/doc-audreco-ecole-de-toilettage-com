@@ -28,7 +28,15 @@
         @stack('meta')
 
         @if ($page->production)
-            <!-- Insert analytics code here -->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-38510644-20"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'UA-38510644-20');
+            </script>
         @endif
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
@@ -40,21 +48,29 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 mb-8 py-4" role="banner">
+        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner" style="position: fixed; top: 0; left: 0; width: 100%;">
+        <!-- <header class="flex items-center shadow bg-white border-b h-24 mb-8 py-4" role="banner"> -->
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
+                        <img class="h-8 md:h-10 mr-3" src="/assets/img/tmp-img/audreco-logo.jpg" alt="{{ $page->siteName }} logo" />
 
-                        <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0 pr-4">{{ $page->siteName }}</h1>
+                        
+                        <!-- <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0 pr-4">{{ $page->siteName }}</h1> -->
                     </a>
+                    
                 </div>
 
                 <div class="flex flex-1 justify-end items-center text-right md:pl-10">
+                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
+                        <h1 class="text-lg md:text-2xl font-semibold hover:text-blue-600 my-0 pr-4 text-right">{{ $page->siteName }} - {{ $page->siteDescription }}</h1>
+                    </a>
+                </div>
+                <!-- <div class="flex flex-1 justify-end items-center text-right md:pl-10">
                     @if ($page->docsearchApiKey && $page->docsearchIndexName)
                         @include('_nav.search-input')
                     @endif
-                </div>
+                </div> -->
             </div>
 
             @yield('nav-toggle')
@@ -69,16 +85,7 @@
         @stack('scripts')
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
-            <ul class="flex flex-col md:flex-row justify-center">
-                <li class="md:mr-2">
-                    &copy; <a href="https://tighten.co" title="Tighten website">Tighten</a> {{ date('Y') }}.
-                </li>
-
-                <li>
-                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
-                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
-                </li>
-            </ul>
+            <p><a href="https://ecole-de-toilettage.com">École de toilettage</a> est un site de <a href="https://audreco.com?utm_source=ecole+de+toilettage+com" target="_blank">l'École des Métiers de l'Animal de Compagnie</a><br />&copy; <a href="https://bluerock.ie?utm_source=ecole+de+toilettage+com" title="BlueRock">BlueRock</a> {{ date('Y') }}. Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a> and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.</p>
         </footer>
     </body>
 </html>
