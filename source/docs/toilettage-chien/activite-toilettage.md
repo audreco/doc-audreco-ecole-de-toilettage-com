@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toilettage chien, le métier et les différentes formes de l'activité
+description: "Les manières de pratiquer le toilettage canin ne sont pas uniformes : le travail en salon de toilettage, le salon de toilettage mobile, le toilettage à domicile..."
 extends: _layouts.documentation
 section: content
 ---
@@ -8,7 +8,7 @@ section: content
 Toilettage chien, le métier : les différentes « formes » de l'activité
 ----------------------------------------------------------------------
 
-Les manières de cette profession ne sont pas uniformes, mais au
+Les manières de pratiquer cette profession ne sont pas uniformes, mais au
 contraire relativement variées et diversifiées.
 
 ### Le travail en salon de toilettage

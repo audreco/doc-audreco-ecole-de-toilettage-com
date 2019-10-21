@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toilettage chien, le métier et la réglementation
+description: "Si la plupart des métiers en rapport avec l'animal de compagnie nécessitent d'être titulaire du certificat de capacité, ce n'est pas le cas du toilettage canin."
 extends: _layouts.documentation
 section: content
 ---

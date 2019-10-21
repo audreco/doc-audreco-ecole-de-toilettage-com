@@ -35,7 +35,7 @@
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
 
-                gtag('config', 'UA-38510644-20');
+                gtag('config', 'UA-38510644-4');
             </script>
         @endif
 
@@ -63,7 +63,7 @@
 
                 <div class="flex flex-1 justify-end items-center text-right md:pl-10">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <h1 class="text-lg md:text-2xl font-semibold hover:text-blue-600 my-0 pr-4 text-right">{{ $page->siteName }} - {{ $page->siteDescription }}</h1>
+                        <h1 class="text-lg md:text-2xl font-semibold hover:text-blue-600 my-0 pr-4 text-right">{{ $page->siteName }}</h1>
                     </a>
                 </div>
                 <!-- <div class="flex flex-1 justify-end items-center text-right md:pl-10">

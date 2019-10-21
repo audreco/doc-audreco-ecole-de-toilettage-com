@@ -1,11 +1,11 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toiletteur canin, le métier, aller plus loin
+description: "Nous vous présentons sur cette page d'autres ressources relatives au toilettage et à la pratique du métier de toiletteur canin, études gratuites, livres, formations, blogues..."
 extends: _layouts.documentation
 section: content
 ---
 
-Toiletteur canin, le métier: aller plus loin !
+Toiletteur canin, le métier : aller plus loin !
 -----------------------------------------------
 
 

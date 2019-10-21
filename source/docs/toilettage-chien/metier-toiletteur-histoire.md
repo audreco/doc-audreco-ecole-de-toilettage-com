@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toilettage chien, histoire du métier, le passé, le présent, l'avenir
+description: "Le passé, le présent et l'avenir du toilettage canin : beaucoup de gens croyaient hier, et croient d'ailleurs toujours aujourd'hui, que certains pelages doivent être obligatoirement raccourcis. L'idée (complètement fausse) est que ces pelages poussent indéfiniment, et finiraient par compromettre la santé de l'animal."
 extends: _layouts.documentation
 section: content
 ---

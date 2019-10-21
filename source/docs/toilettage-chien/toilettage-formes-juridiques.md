@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toilettage chien, le métier, les formes juridiques de l'activité
+description: "Le toiletteur est parfois salarié : employé dans un salon de toilettage ou dans une structure comportant un tel salon. Dans de nombreux autres cas, le toiletteur est un travailleur indépendant : auto-entrepreneur, microentreprise, SAS, SARL, EURL..."
 extends: _layouts.documentation
 section: content
 ---

@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toilettage chien, le métier, quel budget ?
+description: "Que vous exerciez comme toiletteur à domicile que vous soyez employé dans un salon de toilettage, il est recommandé de disposer de son équipement de toilettage personnel..."
 extends: _layouts.documentation
 section: content
 ---

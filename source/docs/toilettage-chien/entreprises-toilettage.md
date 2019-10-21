@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toilettage chien, le métier, combien de salons et combien de toiletteurs ?
+description: "Le métier du toilettage canin : les entreprises de toilettage canin et l'emploi salarié en tant que toiletteur canin."
 extends: _layouts.documentation
 section: content
 ---
@@ -8,7 +8,7 @@ section: content
 Toilettage chien, le métier, combien de salons ? Combien de toiletteurs ?
 --------------------------------------------------------------------------
 
-### Les entreprises
+### Les entreprises de toilettage canin
 
 Comme pour le nombre de chiens, et tout aussi paradoxalement, la plus
 grande incertitude règne sur ce sujet.
@@ -42,7 +42,7 @@ Le toilettage est une activité de service de proximité : rares sont les
 clients qui acceptent de longs déplacements ! La chalandise d'un salon
 de toilettage est donc plus ou moins limitée.
 
-### L'emploi salarié
+### L'emploi salarié comme toiletteur canin
 
 Pour autant, les emplois salariés existent, avec aujourd'hui une assez
 forte tension sur ce marché de l'emploi.

@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toilettage chien, le marché du toilettage canin et ses attentes
+description: "Le marché du toilettage canin et ses attentes : combien de chiens, de chats ? Le marché du toilettage, le nombre d'animaux dans les salons de toilettage..."
 extends: _layouts.documentation
 section: content
 ---

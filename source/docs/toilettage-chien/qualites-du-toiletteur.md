@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toilettage chien, le métier, les qualités du toiletteur
+description: "Toilettage chien, le métier : la pratique du toilettage professionnel implique certaines qualités que nous allons essayer d'envisager, amour des animaux, stabilité du caractère, sens artistique, vitalité physique, sens de la rigueur..."
 extends: _layouts.documentation
 section: content
 ---

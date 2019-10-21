@@ -15,8 +15,6 @@
         
                 <h2 id="intro-powered-by-jigsaw" class="font-light mt-4">{{ $page->siteDescription }}</h2>
         
-                <p class="text-lg">Quelles formations en toilettage ? Quels programmes ?<br class="hidden sm:block">Quelles méthodes ? Quels sont les points essentiels à observer ? </p>
-        
                 <div class="flex my-10 justify-center">
                 <!-- <div class="flex my-10"> -->
                     <a href="/docs/ecole-de-toilettage" title="{{ $page->siteName }} getting started" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">École de toilettage</a>

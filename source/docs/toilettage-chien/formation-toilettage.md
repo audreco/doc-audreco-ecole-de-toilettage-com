@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Toilettage chien, le métier et sa formation
+description: "Si aucun diplôme de toilettage n'est obligatoire pour exercer en tant que toiletteur canin ou responsable de salon de toilettage, une solide formation est cependant recommandée."
 extends: _layouts.documentation
 section: content
 ---

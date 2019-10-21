@@ -1,6 +1,6 @@
 ---
-title: Ecole de toilettage
-description: Tout sur les écoles de toilettage
+title: Le toilettage, pour quels animaux ?
+description: "Incontestablement, les animaux les plus régulièrement toilettés sont les chiens. Cependant, certains salons toilettent aussi (ou seulement) les chats, à poil court ou long : c'est d'ailleurs un « marché » en pleine expansion. Le poil long, chez le chat, nécessite en effet un entretien régulier. Un travail souvent hors de portée de beaucoup de propriétaires. Ces derniers pouvant manquer soit de temps, soit de compétences, soit les deux..."
 extends: _layouts.documentation
 section: content
 ---
