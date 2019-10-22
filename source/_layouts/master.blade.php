@@ -24,6 +24,7 @@
 
         <link rel="home" href="{{ $page->baseUrl }}">
         <link rel="icon" href="/favicon.ico">
+        <link rel="canonical" href="https://ecole-de-toilettage.com/" />
 
         @stack('meta')
 
