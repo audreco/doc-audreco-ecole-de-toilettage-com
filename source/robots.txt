@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ecole-de-toilettage.com/sitemap.xml

@@ -1,7 +1,7 @@
 @extends('_layouts.master')
 
 @section('body')
-<section style="background-image: url(/assets/img/tmp-img/header.jpg); background-size: cover; background-position: 50% 0%; height: 60vh; margin-top: 90px">
+<section class="bg-cover mt-24 h-screen-60 bg-image-header">
 
 </section>
 <section itemscope itemtype="https://schema.org/EducationalOrganization" class="container max-w-6xl mx-auto px-6 py-10 md:py-12">
@@ -14,7 +14,7 @@
                 <div class="flex my-10 justify-center">
                     <a href="/docs/toilettage-chien" title="{{ $page->siteName }} toilettage canin - toiletteur de chien" class="bg-blue-500 hover:bg-blue-600 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">Toilettage Chien : le Guide</a>
         
-                    <a itemprop="url" href="https://audreco.com?utm_source=ecole+de+toilettage+com" title="Jigsaw by Tighten" class="bg-gray-400 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">Site principal Audreco</a>
+                    <a itemprop="url" href="https://audreco.com/?utm_source=ecole+de+toilettage+com" title="Jigsaw by Tighten" class="bg-gray-400 hover:bg-gray-600 text-blue-900 font-normal hover:text-white rounded py-2 px-6">Site principal Audreco</a>
                 </div>
             </div>
         </div>
@@ -40,7 +40,7 @@
         <div itemscope itemptype="https://schema.org/LocalBusiness" class="max-w-xl lg:max-w-7xl mx-auto px-4 pb-12 lg:pb-20 flex flex-col items-center text-center">
             <img src="/assets/img/tmp-img/basic_spread_text_bookmark.svg" class="h-12 w-12" alt="spreaad text book icon">
             <h3 id="livre animaux" class="text-2xl text-blue-900 mb-0">Faites un petit tour dans notre librairie</h3>
-            <p><a itemprop="url" href="https://librairie.audreco.com?utm_source=ecole+de+toilettage+com">Des livres sur les animaux et le toilettage ! Accéder à la librairie</a></p>
+            <p><a itemprop="url" href="https://librairie.audreco.com/?utm_source=ecole+de+toilettage+com">Des livres sur les animaux et le toilettage ! Accéder à la librairie</a></p>
         </div>
     <div itemscope itemptype="https://schema.org/CreativeWork" class="text-center">
         <h3>Sommaire</h3>
