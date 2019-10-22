@@ -47,7 +47,7 @@
     </head>
 
     <body itemscope itemtype="https://schema.org/EducationalOrganization" class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 py-4" role="banner" style="position: fixed; top: 0; left: 0; width: 100%;">
+        <header class="flex items-center shadow bg-white border-b h-24 py-4 fixed top-0 left-0 w-full" role="banner">
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
@@ -72,11 +72,12 @@
         </main>
 
         <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        <noscript>Votre navigateur ne supporte pas JavaScript !</noscript>
 
         @stack('scripts')
 
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
-            <p><a itemprop="url" href="https://ecole-de-toilettage.com">École de toilettage</a> est un site de <a href="https://audreco.com?utm_source=ecole+de+toilettage+com" target="_blank">l'École des Métiers de l'Animal de Compagnie</a><br />&copy; <a href="https://bluerock.ie?utm_source=ecole+de+toilettage+com" title="BlueRock">BlueRock</a> {{ date('Y') }}. Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a> and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.</p>
+            <p><a itemprop="url" href="https://ecole-de-toilettage.com">École de toilettage</a> est un site de <a href="https://audreco.com/?utm_source=ecole+de+toilettage+com" target="_blank">l'École des Métiers de l'Animal de Compagnie</a><br />&copy; <a href="https://bluerock.ie/?utm_source=ecole+de+toilettage+com" title="BlueRock">BlueRock</a> {{ date('Y') }}. Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a> and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.</p>
         </footer>
     </body>
 </html>

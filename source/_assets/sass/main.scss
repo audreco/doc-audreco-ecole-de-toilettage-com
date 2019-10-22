@@ -11,3 +11,19 @@
 @import 'search';
 
 @tailwind utilities;
+
+.h-screen-60 {
+	height: 60vh;
+}
+
+.bg-image-header {
+	background-image: url(/assets/img/tmp-img/header.jpg);
+}
+
+.top-100 {
+	top: 100px;
+}
+
+.m-100 {
+	margin: 100px auto auto auto;
+}
