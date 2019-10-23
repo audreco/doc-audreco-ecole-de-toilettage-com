@@ -13,8 +13,12 @@
         <meta property="og:image" content="/assets/img/logo.png"/>
         <meta property="og:type" content="website"/>
 
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@Audreco_online" />
+        <meta name="twitter:title" content="École de toilettage" />
+        <meta name="twitter:description" content="Le guide du métier de toiletteur canin, toilettage canin." />
+        <meta name="twitter:image" content="/assets/img/logo.png" />
         <meta name="twitter:image:alt" content="{{ $page->siteName }}">
-        <meta name="twitter:card" content="summary_large_image">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
             <meta name="generator" content="tighten_jigsaw_doc">
