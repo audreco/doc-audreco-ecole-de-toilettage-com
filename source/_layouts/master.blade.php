@@ -10,14 +10,14 @@
         <meta property="og:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}"/>
         <meta property="og:description" content="{{ $page->description ?? $page->siteDescription }}"/>
         <meta property="og:url" content="{{ $page->getUrl() }}"/>
-        <meta property="og:image" content="/assets/img/logo.png"/>
+        <meta property="og:image" content="https://ecole-de-toilettage.com/assets/img/tmp-img/audreco-logo.jpg"/>
         <meta property="og:type" content="website"/>
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@Audreco_online" />
         <meta name="twitter:title" content="École de toilettage" />
         <meta name="twitter:description" content="Le guide du métier de toiletteur canin, toilettage canin." />
-        <meta name="twitter:image" content="/assets/img/logo.png" />
+        <meta name="twitter:image" content="https://ecole-de-toilettage.com/assets/img/tmp-img/audreco-logo.jpg" />
         <meta name="twitter:image:alt" content="{{ $page->siteName }}">
 
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
@@ -27,7 +27,7 @@
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
 
         <link rel="home" href="{{ $page->baseUrl }}">
-        <link rel="icon" href="/favicon.ico">
+        <link rel="icon" href="/favico.png">
         <link rel="canonical" href="https://ecole-de-toilettage.com/" />
 
         @stack('meta')
