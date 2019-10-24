@@ -38,9 +38,17 @@
         </div>
 
         <div itemscope itemptype="https://schema.org/LocalBusiness" class="max-w-xl lg:max-w-7xl mx-auto px-4 pb-12 lg:pb-20 flex flex-col items-center text-center">
-            <img src="/assets/img/tmp-img/basic_spread_text_bookmark.svg" class="h-12 w-12" alt="spreaad text book icon">
+            <img src="/assets/img/tmp-img/basic_spread_text_bookmark.svg" class="h-12 w-12" alt="text book icon">
             <h3 id="livre animaux" class="text-2xl text-blue-900 mb-0">Faites un petit tour dans notre librairie</h3>
             <p><a itemprop="url" href="https://librairie.audreco.com/?utm_source=ecole+de+toilettage+com">Des livres sur les animaux et le toilettage ! Accéder à la librairie</a></p>
+        </div>
+
+        <div itemscope itemptype="https://schema.org/EducationalOrganization" class="max-w-xl lg:max-w-7xl mx-auto px-4 pb-12 lg:pb-20 flex flex-col items-center text-center">
+            <img src="/assets/img/tmp-img/basic_magnifier.svg" class="h-12 w-12" alt="magnifier icon">
+            <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">Visitez notre site : Formation toiletteur canin</h3>
+
+            <p><a itemprop="url" href="https://formation-toiletteur-canin.net/?utm_source=ecole+de+toilettage+com">Tout savoir sur la formation de toiletteur canin : quelles formations en toilettage canin ? quels programmes ? quelles méthodes ? quels sont les points essentiels à observer ?</a>
+            </p>
         </div>
     <div itemscope itemptype="https://schema.org/CreativeWork" class="text-center">
         <h3>Sommaire</h3>
