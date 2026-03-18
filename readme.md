@@ -7,3 +7,5 @@ Voir également :
 [Formation Toiletteur Canin - Tout savoir sur la formation de toiletteur canin](https://formation-toiletteur-canin.net?utm_source=utm_source=github+doc-audreco-ecole-de-toilettage-com) - Tout savoir sur la formation de toiletteur canin : quelles formations en toilettage canin ? quels programmes ? quelles méthodes ? quels sont les points essentiels à observer ?
 
 [À l'École des Métiers de l'Animal de Compagnie](https://audreco.com?utm_source=github+doc-audreco-ecole-de-toilettage-com)
+
+[Logiciel de Gestion de Salon de Toilettage Check-in DOG](https://checkindog.com/fr)
