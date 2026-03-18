@@ -28,7 +28,9 @@ pas vrai !](https://audreco.com/mon-chien/?utm_source=formation+toiletteur+canin
 
 - Consultez sur notre blogue : [Entreprendre dans les métiers de
 services auprès des animaux !
-](http://entreprendre-animaux.audreco.com/?utm_source=formation+toiletteur+canin+net)
+](https://entreprendre-animaux.audreco.com/?utm_source=formation+toiletteur+canin+net)
+
+- Découvrez Check-in DOG : [Logiciel de Gestion de Salon de Toilettage](https://checkindog.com/fr/)
 
 Vous avez [un projet de Formation Toiletteur Canin ? Rendez-vous sur
 notre site principal
